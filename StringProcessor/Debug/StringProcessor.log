@@ -1,0 +1,13 @@
+﻿  str.c
+c:\users\dayem\documents\stringprocessor\stringprocessor\str.c(225): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\dayem\documents\stringprocessor\stringprocessor\str.c(234): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\dayem\documents\stringprocessor\stringprocessor\str.c(264): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\dayem\documents\stringprocessor\stringprocessor\str.c(276): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\dayem\documents\stringprocessor\stringprocessor\str.c(285): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\dayem\documents\stringprocessor\stringprocessor\str.c(287): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\dayem\documents\stringprocessor\stringprocessor\str.c(325): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\dayem\documents\stringprocessor\stringprocessor\str.c(362): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  main.c
+  Generating Code...
+  StringProcessor.vcxproj -> C:\Users\dayem\Documents\StringProcessor\Debug\StringProcessor.exe
+  StringProcessor.vcxproj -> C:\Users\dayem\Documents\StringProcessor\Debug\StringProcessor.pdb (Full PDB)
